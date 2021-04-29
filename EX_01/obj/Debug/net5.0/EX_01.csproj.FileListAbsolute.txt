@@ -1,0 +1,16 @@
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\bin\Debug\net5.0\EX_01.exe
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\bin\Debug\net5.0\EX_01.deps.json
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\bin\Debug\net5.0\EX_01.runtimeconfig.json
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\bin\Debug\net5.0\EX_01.runtimeconfig.dev.json
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\bin\Debug\net5.0\EX_01.dll
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\bin\Debug\net5.0\ref\EX_01.dll
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\bin\Debug\net5.0\EX_01.pdb
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.csprojAssemblyReference.cache
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.AssemblyInfoInputs.cache
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.AssemblyInfo.cs
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.csproj.CoreCompileInputs.cache
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.dll
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\ref\EX_01.dll
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.pdb
+C:\Users\samue\Documents\SENAI\30-04-2021\EX_01\obj\Debug\net5.0\EX_01.genruntimeconfig.cache
