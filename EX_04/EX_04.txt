@@ -1,0 +1,47 @@
+Programa
+    {
+        função principal()
+        {
+            inteiro idade
+            escreva("Digite a idade do nadador: ");
+            leia(idade);
+
+            se (idade >= 5 E idade < 8)
+            {
+                escreva("Categoria: INFANTIL A");
+            }
+            senão
+            {
+                se (idade >=8 E idade < 11)
+                {
+                    escreva("Categoria: INFANTIL B");
+                }
+                senão
+                {
+                    se (idade >= 11 E idade < 14)
+                    {
+                        escreva("Categoria: JUVENIL A");
+                    }
+                    senão
+                    {
+                        se (idade >= 14 E idade < 18)
+                        {
+                            escreva("Categoria: JUVENIL B");
+                        }
+                        senão
+                        {
+                            se (idade >= 18)
+                            {
+                                escreva("Categoria: MAIORES DE 18 ANOS");
+                            }
+                            senão
+                            {
+                                escreva("Idade não permitida.");
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

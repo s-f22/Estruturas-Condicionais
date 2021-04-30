@@ -1,0 +1,20 @@
+programa
+    {
+        Função principal()
+        {
+            inteiro idade
+            escreva("Digite sua idade: ");
+            leia(idade);
+
+            inteiro meses = idade * 12;
+            inteiro dias = idade * 365;
+            inteiro horas = idade * 8760;
+            inteiro minutos = idade * 525600;
+
+            escreva("Idade em meses: " + meses);
+            escreva("Idade em dias: " + dias);
+            escreva("Idade em horas: " + horas);
+            escreva("Idade em minutos: " + minutos);
+        }
+    }
+}

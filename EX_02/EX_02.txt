@@ -1,0 +1,20 @@
+    Programa
+    {
+        Função Principal()
+        {
+            inteiro anoNascimento
+            inteiro anoAtual
+            escreva("Em que ano você nasceu? ");
+            leia(anoNascimento);
+
+            escreva("Qual é o ano atual? ");
+            leia(anoAtual);
+
+            inteiro idade = anoAtual - anoNascimento;
+            real semanas = (idade * 365) / 7;
+            escreva("Sua idade em anos é " + idade);
+            escreva("Sua idade em semanas é " + semanas);
+
+        }
+    }
+}

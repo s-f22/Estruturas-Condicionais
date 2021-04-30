@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021\\EX_04\\EX_04.csproj": {}
+    "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021_Exercicios\\EX_04\\EX_04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021\\EX_04\\EX_04.csproj": {
+    "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021_Exercicios\\EX_04\\EX_04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021\\EX_04\\EX_04.csproj",
+        "projectUniqueName": "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021_Exercicios\\EX_04\\EX_04.csproj",
         "projectName": "EX_04",
-        "projectPath": "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021\\EX_04\\EX_04.csproj",
+        "projectPath": "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021_Exercicios\\EX_04\\EX_04.csproj",
         "packagesPath": "C:\\Users\\samue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021\\EX_04\\obj\\",
+        "outputPath": "C:\\Users\\samue\\Documents\\SENAI\\30-04-2021_Exercicios\\EX_04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samue\\AppData\\Roaming\\NuGet\\NuGet.Config"

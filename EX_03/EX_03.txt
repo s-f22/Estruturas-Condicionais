@@ -1,0 +1,19 @@
+programa
+
+real salario
+        {
+            escreva ("Digite o salário do funcionário: R$")
+            leia (salario);
+
+            se (salario maior que 500)
+            {
+                salario = salario * 1.3f;
+                escreva ("O salario reajustado é de: R$" + salario);
+            }
+            senão
+            {
+                escreva ("Este salário não possui direito a aumento.");
+            }
+        }
+    }
+}
